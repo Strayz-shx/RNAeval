@@ -1,0 +1,19 @@
+name: BPfold
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - pyyaml
+  - pip
+  - pandas
+  - scikit-learn
+  - pip:
+    - torch>=2.0.1
+    - torchvision
+    - torchaudio
+    - einops
+    - BPfold

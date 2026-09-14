@@ -1,0 +1,35 @@
+============ Job 1350471 Performance Details ============
+JobID: 1350471
+User: scx7auf
+Nodes、GPU: paraai-n32-h-01-agent-1: 1
+Time Range: 2026-07-17 21:29:34 - 2026-07-17 21:58:58
+Running time: 0d0H29M24S
+GPU Util: 12.87 %
+GMem Util: 2.02 %
+GMemBW Util: 0.07 %
+Tensor Core Util: 0.02 %
+Tensor IMMA Util: N/A
+Tensor HMMA Util: N/A
+Tensor DFMA Util: N/A
+FP64 Util: 0 %
+FP32 Util: 0.74 %
+FP16 Util: 0 %
+GPCIE RX: 98.11 MB/s
+GPCIE TX: 14.88 MB/s
+GNVLINK: N/A
+GPU Power: 43.57 W
+GPU Temperature: 32.04 °C
+
+Additional Performance Data:
+--- flops performance(avg to single card) ---
+|- fp64: 0 TFlops
+|- fp32: 0 TFlops
+> |- GMEMBW/F: 13,621 B/MF
+> |- NVLINK/F: No Data
+> |- IB_TX/F: No Data
+> |- IB_RX/F: No Data
+> |- PCIE_TX/F: 184 B/MF
+> |- PCIE_RX/F: 1,213 B/MF
+|- fp16: 0 TFlops
+|- tensor: 0 TFlops
+=========================================================

@@ -1,0 +1,14 @@
+===== CONTRAfold 配分函数 vs MCC 相关性分析报告 =====
+数据目录:     /home/bingxing2/home/scx7auf/Shihaoxuan/graduate/data_code/data_512/TestB_512
+分析时间:     2026-06-13 21:59:20
+运行耗时:     54s
+
+数据点数:     4197
+候选结构总数: 4197
+唯一序列数:   427
+
+MCC(归一化)  min=0.1000  max=1.0000  mean=0.4925  std=0.1517
+Energy      min=-42.6786  max=-0.5492  mean=-19.1986  std=6.4016
+
+Pearson  r = 0.361149  p = 1.679371e-129
+Spearman ρ = 0.343963  p = 7.122781e-117
